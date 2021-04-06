@@ -1,0 +1,50 @@
+Nº,City,Address,River,Name, Latitude, Longitude,HPP type,Status,Flow (m3/s),Head (m),Power (MW),"Generation 
+(GWh/año)
+",Effective power (MW),Plant factor (%),Efficiency average of Units (%),Ownership,Type of turbine,# Turbine,Power of turbine (MW),The generator trerminals (NW),HR (average month),Temperatura ,ETP (mm/ año),PCP (mm/año),Operation Level (m.s.n.m),Costo de Inversiòn (M $us),Normal level of operation (m.s.n.m),Maximun level of operation,Minimun level of operation,Flood Area (km2),Total Volume (km3),Useful Volume(km3),Dam Height (m),River Flow (m3/s)
+1,Cochabamba,Provincia Quillacollo,Rio Misicuni,Misicuni,-17.097174,-66.328954,S,In Operation,15,1035.5,120,,120,,,ENDE - Corporacion,Pelton,3,40,,,,,,,,,,,,,,,
+2,Cochabamba,Provincia Chapare,Río Malaga y otros pequeños ríos,Corani,-17.227732,-65.892759,S,In Operation,10,625,54,416.67,65.24,73.40%,87.80%,ENDE - Corani,,5,,,,,,,,,,,,,,,,
+3,Cochabamba,Provincia Chapare,Descarga desde la planta Corani,Santa Isabel,-17.191557,-65.823164,RoR-D,In Operation,10,855,93/72,594.41,91.11,74.50%,88.90%,ENDE - Corani,,5,,,,,,,,,,,,,,,,
+4,Cochabamba,Provincia Chapare,Ríos Paracty y Malaga,San Jose 1,-17.169317,-65.786453,RoR-D,In Operation,21.4,370,55,352.74,55,73.20%,90.10%,ENDE - Corani,,2,,,,,,,,,,,,,,,,
+5,Cochabamba,Provincia Chapare,Río Paracti,San Jose 2,-17.104057,-65.784445,RoR-D,In Operation,23,341.82,69,407,69,60.60%,89.30%,ENDE - Corani,Pelton,2,,68.6,89.50%,,1162,3244.2,,,,,,,,,,
+6,Potosi,Provincia Murillo,Derretimiento del Glacial Huayna Potosi,Valle de zongo - Zongo,-16.280186,-68.122296,S,,n/a,372,10.8,,,,,COBEE S.A.,,,,,,,,,,,,,,,,,,
+7,Potosi,Provincia Murillo,"Descarga de plantas de Zongo, pequeños ríos y el río Zongo",Valle de zongo - Tiquimani,-16.207193,-68.123645,RoR-D,,n/a,393,9.6,,,,,COBEE S.A.,,,,,,,,,,,,,,,,,,
+8,Potosi,Provincia Murillo,"Descarga de plantas de Zongo, pequeños ríos y el río Zongo",Valle de zongo - Botijilaca,-16.192387,-68.140778,RoR-D,,n/a,84,6.9,,,,,COBEE S.A.,,,,,,,,,,,,,,,,,,
+9,Potosi,Provincia Murillo,"Descarga de plantas de Zongo, pequeños ríos y el río Zongo",Valle de Zongo - Central Zongo,-16.182387,-68.139234,RoR-D,,n/a,704,10.8,,,,,COBEE S.A.,,,,,,,,,,,,,,,,,,
+10,Potosi,Provincia Murillo,"Descarga de plantas de Zongo, pequeños ríos y el río Zongo",Valle de Zongo - Cuticucho,-16.142104,-68.116081,RoR-D,,n/a,169,21.7,,,,,COBEE S.A.,,,,,,,,,,,,,,,,,,
+11,Potosi,Provincia Murillo,"Descarga de plantas de Zongo, pequeños ríos y el río Zongo",Valle de Zongo - Santa Rosa,-16.131703,-68.109687,RoR-D,,n/a,321,17.4,,,,,COBEE S.A.,,,,,,,,,,,,,,,,,,
+12,Potosi,Provincia Murillo,"Descarga de plantas de Zongo, pequeños ríos y el río Zongo",Valle de Zongo - Sainani,-16.123924,-68.090125,RoR-D,,n/a,371,11.6,,,,,COBEE S.A.,,,,,,,,,,,,,,,,,,
+13,Potosi,Provincia Murillo,"Descarga de plantas de Zongo, pequeños ríos y el río Zongo",Valle de Zongo - Chururaqui,-16.107182,-68.071036,RoR-D,,n/a,341,26.6,,,,,COBEE S.A.,,,,,,,,,,,,,,,,,,
+14,Potosi,Provincia Murillo,"Descarga de plantas de Zongo, pequeños ríos y el río Zongo",Valle de Zongo - Harca,-16.088617,-68.044599,RoR-D,,n/a,302,25,,,,,COBEE S.A.,,,,,,,,,,,,,,,,,,
+15,Potosi,Provincia Murillo,"Descarga de plantas de Zongo, pequeños ríos y el río Zongo",Valle de Zongo - Cahua,-16.056248,-68.014535,RoR-D,,n/a,237,26.7,,,,,COBEE S.A.,,,,,,,,,,,,,,,,,,
+16,Potosi,Provincia Murillo,"Descarga de plantas de Zongo, pequeños ríos y el río Zongo",Valle de Zongo - Huaji,-16.041117,-68.977233,RoR-D,Under Contruction,15,150,29.4,,,64%,,COBEE S.A.,,,,,,,,,,,,,,,,,,
+17,"Cochabamba
+Santa Cruz",Provincia Chapare,"Ríos Paracti, Mascota y San Martin",Banda Azul,-17.05261,-65.748086,RoR-D,under construction,60,100,75,,,,,ENDE - Corani,,,,,,,,,,,,,,,,,,
+18,Cochabamba,Provincia Campero,"Ríos Lope Mendoza, Fuertes e Ivirizu",Ivirizu - Sehuencas,-17.546365,-65.267332,S,under construction ,26.5,811.6,188,764.57,,46%,,ENDE - Corani,Pelton,3,,,,,,,,,,,,,0.04,,,
+19,Cochabamba,Provincia Campero,"Ríos Lope Mendoza, e Ivirizu",Ivirizu - Juntas,-17.474449,-65.275771,RoR-D,under construction,32.5,326.5,91,354.49,,44%,,ENDE - Corani,Francis,2,,,,,,,,,,,,,,,,
+20,La Paz, Provincia Inquisivi,Aguas del glacial el Gigante,Miguillas - Umapalca,-16.934692,-67.326781,S,under construction,n/a,n/a,86,,,,,ENDE - Valle Hermoso,,,,,,,,,,,,,,,,,,
+21,La Paz, Provincia Inquisivi,Descarga desde la planta Umapalca,Miguillas - Palillada,-16.666439,-67.352575,RoR-D,under construction,20,791/689,117/110,548,,60%,,ENDE - Valle Hermoso,,,,,,,,,,,,,,,,,,
+22,La Paz,Provincia Franz Tamayo,Río Beni,El Bala,-14.546955,-67.498613,RoR,Under design,n/a,40,425,,,,,ENDE - Corporacion,Bulbo,12,,,,,,,,,218.5,,,92,,Central de Pasada,,
+23,Santa Cruz,Provincia Valle Grande,Río Grande,Rositas,-18.929992,-63.527486,S,Under design,110,148,400 - 600,2917,,,,ENDE - Corporacion,Francis de eje vertical,4,100 - 150,,,,,,,,595,600.87,530,410,19.09451,15.60471,162,315
+24,Potosi,Municipio Quijarro,Rìo Yura,El Cóndor,-19.884,-66.205,RoR,Under Construction,3,60.48,1.47,9.85,,,,ENDE - Valle Hermoso,,,,,,,,,,,,,,,,,,
+25,Beni,Provincia Trinidad,"Ríos Abuná, Beni y Mamoré",Cuenca del Amazonas,-14.681,-65.312,,Under design,,,,532,,,,,,,,,,,,,,,,,,,,,,
+26,Tarija,,Rio Pilcomayo y Bermejo,Cuenca del Plata ,-21.487,-63.832,,Under design,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,La Paz,Provincia Franz Tamayo,Río Beni,Chepete,-14.972098,-67.685147,S,Under design,1600,183,3251,15400,,,,ENDE - Corporacion,Francis de eje vertical,16,168.75,,,,,,,,390,400,321.35,680,31.4,,,
+28,Beni,,Rìo Beni,Cachuela Esperanza,-10.827,-65.903,S,Under design,10150,11.1,990,5400000,,65%,,ENDE - Corporacion,Bulbo,18,55,,,,,,,2218,114 - 119,,,,,,,
+29,"Pando
+Beni",Porvincia Villa Vela,Rìo Madera,Binacional río Madera,-10.259,-65.313,,Under design,,,1500,,,,,,,,,,,,,,,,,,,,,,,
+30,Cochabamba,Provincia Chapare,Rio Juntas Corani,Juntas Corani,-16.423,-65.402,,Under design,,,439.4,,,,,ENDE - Corani,,,,,,,,,,,,,,,,,,
+31,Cochabamba,Provincia Chapare,,Ambrosia,-16.423,-65.402,,Under design,,,,,,,,ENDE - Corani,,,,,,,,,,,,,,,,,,
+32,Cochabamba,Provincia Chapare,Ríos paracti y Juntas Corani,Icona,-17.025421,-65.694005,S,Under desing,80,159,102,,,,,ENDE - Corani,,,,,,,,,,,,,,,,,,
+33,"Chuquisaca
+Tarija",Provincia Eustaquio Méndez,"Ríos Tumusla, San Juan y Camblaya",Proyecto hidroelectrico Carrizal,-21.019233,-64.971986,S,Under design,43.3,n/a,346,,,,,"ENDE - Valle Hermoso
+ENDE - Matriz",,,,,,,,,,,,,,,,,,
+34,Tarija,"provincia Eustaquio Méndez, municipio de San Lorenzo",Río Casa Cancha y Huacata,Huacata,-21.224,-64.746,S,Under design,1.4,536,5.38,12.8,,,,ENDE - Valle Hermoso,,,,,,,,,,,,,,1.54,0.0115,,,
+35,Chuquisaca,,Rio Yura,Aguas Calientes II Arenales,-19.892,-64.007,S,Under design,,130,94,,,,,ENDE - Valle Hermoso,,,,,,,,,,,,,,,,,500,
+36,Santa Cruz,Municipio de Charagua ,Rìo Parapetí,Oquitas,-17.736,-62.679,,Under design,,,125,,,,,ENDE - Guaracahi,,,,,,,,,,,,,,,,,,
+37,Potosi,Rovincia Chayanta,Rìo Chayanta,Chayanta,-20.991,-67.368,,Under design,,,177,,,,,ENDE - Valle Hermoso,,,,,,,,,,,,,,,,,,
+38,Chuquisaca,,Rìo Incahuasi,Incahuasi,-20.238,-64.656,,Under design,,,18,80,,,,ENDE - Matriz,,,,,,,,,,,,,,,,,,
+39,La Paz,Municipio de Ichoca de la provincia Inquisivi,Río Coroico,Muñecas,-15.883,-68.987,,Under design,,,40,,,,,ENDE - Valle Hermoso,,,,,,,,,,,,,,,,,,
+40,Tarija,Provincia Arce,Rìo Tarija,Cambari,-22.247,-64.437,,Under design,115,105,93,530,,,,ENDE - Valle Hermoso,Francis,2,,,,,,,,,,635,,,1.007,,120,
+41,"Potosi
+Cochabamba","Provincia Charcas
+Povincia Mizque",Rìo Caine,Molineros,-17.956,-65.944,S,Under design,90//44.6*,197.5,132,583,,50%,,ENDE - Valle Hermoso,Francis,4,33,,,,,,,,,,,,3.31,2,,
