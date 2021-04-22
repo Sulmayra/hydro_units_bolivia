@@ -1,0 +1,42 @@
+PowerCapacity,Unit,Zone,Technology,Fuel,Efficiency,MinUpTime,MinDownTime,RampUpRate,RampDownRate,StartUpCost,NoLoadCost,RampingCost,PartLoadMin,MinEfficiency,StartUpTime,CO2Intensity,CHPType,CHPPowerToHeat,STOCapacity,STOSelfDischarge,STOMaxChargingPower,STOChargingEfficiency,Nunits
+120,Misicuni,CE,HDAM,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,3
+54,Corani,CE,HDAM,WAT,0.7337,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,5
+93,Santa Isabel,CE,HROR,WAT,0.7448,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,5
+55,San Jose 1,CE,HROR,WAT,0.7321,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,2
+69,San Jose 2,CE,HROR,WAT,0.6058,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,2
+10.8,Valle de zongo - Zongo,CE,HDAM,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+9.6,Valle de zongo - Tiquimani,CE,HROR,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+6.9,Valle de zongo - Botijilaca,CE,HROR,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+10.8,Valle de Zongo - Central Zongo,CE,HROR,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+21.7,Valle de Zongo - Cuticucho,CE,HROR,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+17.4,Valle de Zongo - Santa Rosa,CE,HROR,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+11.6,Valle de Zongo - Sainani,CE,HROR,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+26.6,Valle de Zongo - Chururaqui,CE,HROR,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+25,Valle de Zongo - Harca,CE,HROR,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+26.7,Valle de Zongo - Cahua,CE,HROR,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+29.4,Valle de Zongo - Huaji,CE,HROR,WAT,0.64,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+75,Banda Azul,CE,HROR,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+188,Ivirizu - Sehuencas,CE,HDAM,WAT,0.46,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,3
+91,Ivirizu - Juntas,CE,HROR,WAT,0.44,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,2
+86,Miguillas - Umapalca,CE,HDAM,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+118,Miguillas - Palillada,CE,HROR,WAT,0.6,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+425,El Bala,CE,HROR,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,12
+600,Rositas,CE,HDAM,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,4
+1.47,El Cóndor,CE,HROR,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+,Cuenca del Amazonas,CE,HROR,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+,Cuenca del Plata ,CE,HROR,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+3251,Chepete,CE,HDAM,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,16
+990,Cachuela Esperanza,CE,HDAM,WAT,0.65,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,18
+1500,Binacional río Madera,CE,HROR,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+439.4,Juntas Corani,CE,HROR,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+,Ambrosia,CE,HROR,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+102,Icona,CE,HDAM,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+75,Proyecto hidroelectrico Carrizal,CE,HDAM,WAT,0.53,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+5.38,Huacata,CE,HDAM,WAT,0.25,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+94,Aguas Calientes II Arenales,CE,HDAM,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+125,Oquitas,CE,HROR,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+177,Chayanta,CE,HROR,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+18,Incahuasi,CE,HROR,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+40,Muñecas,CE,HROR,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,1
+93,Cambari,CE,HDAM,WAT,0.9,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,2
+132,Molineros,CE,HDAM,WAT,0.5,1,1,0.15,0.15,,,0.05,,,,0.006,,,,,,,4
