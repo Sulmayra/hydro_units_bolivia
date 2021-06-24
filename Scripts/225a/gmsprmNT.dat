@@ -1,0 +1,16 @@
+Input=C:\Users\VLIR_\Documents\git\hydro_units_bolivia\Simulations\bolivia_base_2020\UCM_h.gms
+Output=C:\Users\VLIR_\Documents\git\hydro_units_bolivia\Simulations\bolivia_base_2020\UCM_h.lst
+Action=R
+SubSys=C:\GAMS\win64\24.5\gmscmpnt.txt
+ScrDir=C:\Users\VLIR_\Documents\git\hydro_units_bolivia\Scripts\225a\
+SysDir=C:\GAMS\win64\24.5\
+CurDir=C:\Users\VLIR_\Documents\git\hydro_units_bolivia\Scripts\
+WorkDir=C:\Users\VLIR_\Documents\git\hydro_units_bolivia\Simulations\bolivia_base_2020\
+PutDir=C:\Users\VLIR_\Documents\git\hydro_units_bolivia\Simulations\bolivia_base_2020\
+GridDir=C:\Users\VLIR_\Documents\git\hydro_units_bolivia\Scripts\225a\
+ScriptNext=225a\gamsnext.cmd
+ScriptFrst="@echo off"
+LogOption=3
+AppendOut=1
+LibIncDir=C:\GAMS\win64\24.5\inclib\
+SysIncDir=C:\GAMS\win64\24.5\
