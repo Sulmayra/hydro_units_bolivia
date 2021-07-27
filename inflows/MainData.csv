@@ -1,72 +1,61 @@
-Nº,City,Address,System,River,Name, Latitude, Longitude,HPP type,Status,Flow (m3/s),Falls down (m),Power (MW),Plant factor (%),Efficiency average of Units (%),Type of turbine,# Turbine,Power of turbine by Units (MW),Power of turbine (MW),"Reservoir Capacity TOTAL
-(hm3)","Reservoir Capacity Useful
-(hm3)","Reservoir Capacity 
-(hm3)",Dam height,Ownership
-1,Potosi,ProvinceMurillo,Sistema Zongo,Derretimiento del Glacial Huayna Potosi,VALLE DE ZONGO - ZONGO,-16.280186,-68.122296,S,In Operating,0.37,379,11,,,Pelton,1,10.8,10.8,3.6,3.6,3.059,,COBEE S.A.
-2,Potosi,ProvinceMurillo,Sistema Zongo,"Descarga de plantas de Zongo, pequeños ríos y el río Zongo",VALLE DE ZONGO - TIQUIMANI,-16.207193,-68.123645,RoR-D,In Operating,0.18,513,9.7,,,Pelton,1,9.6,9.6,0.000006411,6.411,6.125,,COBEE S.A.
-3,Potosi,ProvinceMurillo,Sistema Zongo,"Descarga de plantas de Zongo, pequeños ríos y el río Zongo",VALLE DE ZONGO - BOTIJILACA,-16.192387,-68.140778,RoR-D,In Operating,1.31,383,6.8,,,Pelton,3,Different,6.9,,,,,COBEE S.A.
-4,Potosi,ProvinceMurillo,Sistema Zongo,"Descarga de plantas de Zongo, pequeños ríos y el río Zongo",VALLE DE ZONGO - CUTICUCHO,-16.142104,-68.116081,RoR-D,In Operation,0.23,668,23,,,Pelton,5,Different,22,,,,,COBEE S.A.
-5,Potosi,ProvinceMurillo,Sistema Zongo,"Descarga de plantas de Zongo, pequeños ríos y el río Zongo",VALLE DE ZONGO - SANTA ROSA_1,-16.131703,-68.109687,RoR-D,In Operation,0.27,187.5,6.9,,,Francis,1,6.9,6.9,,,,,COBEE S.A.
-6,Potosi,ProvinceMurillo,Sistema Zongo,"Descarga de plantas de Zongo, pequeños ríos y el río Zongo",VALLE DE ZONGO - SANTA ROSA_2,-16.131703,-68.109687,S-D,In Operation,0.33,836.2,10.7,,,Pelton,1,10.5,10.5,,,0.445,,COBEE S.A.
-7,Potosi,ProvinceMurillo,Sistema Zongo,"Descarga de plantas de Zongo, pequeños ríos y el río Zongo",VALLE DE ZONGO - SAINANI,-16.123924,-68.090125,RoR-D,In Operation,0.45,291,10.5,,,Pelton,1,11.6,11.6,,,,,COBEE S.A.
-8,Potosi,ProvinceMurillo,Sistema Zongo,"Descarga de plantas de Zongo, pequeños ríos y el río Zongo",VALLE DE ZONGO - CHURURAQUI,-16.107182,-68.071036,RoR-D,In Operation,1.5,375,25.4,,,Pelton,2,13.3,26.6,,,,,COBEE S.A.
-9,Potosi,ProvinceMurillo,Sistema Zongo,"Descarga de plantas de Zongo, pequeños ríos y el río Zongo",VALLE DE ZONGO - HARCA,-16.088617,-68.044599,RoR-D,In Operation,0.85,345,25.8,,,Pelton,2,12.5,25,,,,,COBEE S.A.
-10,Potosi,ProvinceMurillo,Sistema Zongo,"Descarga de plantas de Zongo, pequeños ríos y el río Zongo",VALLE DE ZONGO - CAHUA,-16.056248,-68.014535,RoR-D,In Operation,1.01,285,28.1,,,Pelton,2,13.3,26.6,,,,,COBEE S.A.
-11,Potosi,ProvinceMurillo,Sistema Zongo,"Descarga de plantas de Zongo, pequeños ríos y el río Zongo",VALLE DE ZONGO - HUAJI,-16.041117,-68.977233,RoR-D,In Operation,1.48,250,30.2,64%,,Pelton,2,14.7,29.4,,,,,COBEE S.A.
-12,La Paz,Province Sur Yungas,Sistema Taquesi,River Taquesi,CHOJLLA,-16.4125,-67.7725,S-D,In Operation,0.79,560.8,38.4,,,Francis de eje vertical,1,39,39,,,5.435,,HB
-13,La Paz,Province Sur Yungas,Sistema Taquesi,River Taquesi,YANACACHI,-16.3879,-61.7376,RoR-D,In Operation,1.15,492.3,50.8,,,Francis de eje vertical,1,51.8,51.8,,,,,HB
-14,Cochabamba,Province Chapare,Sistema Corani,Río Malaga y otros pequeños ríos,CORANI,-17.227732,-65.892759,S,In Operation,21.4,622.3,54,73.4%,87.8%,Pelton,4,15.3,61.2,168,137.996,137.99,,ENDE - Corani
-15,Cochabamba,Province Chapare,Sistema Corani,Descarga desde la planta Corani,SANTA ISABEL,-17.191557,-65.823164,RoR-D,In Operation,21.4,856.7,93,74.5%,88.9%,Pelton,5,Different,97.3,,,,,ENDE - Corani
-16,Cochabamba,Province Chapare,Sistema Corani,Ríos Paracty y Malaga,SAN JOSE 1,-17.169317,-65.786453,RoR-D,In Operation,21.4,313,55,73.2%,90.1%,,2,,,,,,,ENDE - Corani
-17,Cochabamba,Province Chapare,Sistema Corani,Río Paracti,SAN JOSE 2,-17.104057,-65.784445,RoR-D,In Operation,21.4,369,69,60.6%,89.3%,Pelton,2,,,,,,,ENDE - Corani
-18,"Cochabamba
-Santa Cruz",Province Chapare,Sistema Corani,"Ríos Paracti, Mascota y San Martin",BANDA AZUL,-17.05261,-65.748086,RoR-D,under construction,60,100,147,,,,,,,,,,,ENDE - Corani
-19,Cochabamba,Province Quillacollo,Sistema Misicuni,Rio Misicuni,MISICUNI,-17.097174,-66.328954,S,In Operation,2.39,1035.5,120,,,Pelton,3,40,120,185.5,156.1,156.1,,ENDE - Corporacion
-20,La Paz,Province Inquisivi,Sistema Miguilla,,MIGUILLA,-16.9256,-67.3248,,In Operation,16,480,2.5,,,Pelton,2,1.5,3,,,,,COBEE S.A.
-21,La Paz,Province Inquisivi,Sistema Miguilla,,ANGOSTURA,-16.8937,-67.3154,S-D,In Operation,,533,6.2,,,Pelton,3,Different,6.8,,,,,COBEE S.A.
-22,La Paz,Province Inquisivi,Sistema Miguilla,,CHOQUETANGA,-16.8508,-67.3155,,In Operation,,488,6.1,,,Pelton,3,2.6,7.8,,,,,COBEE S.A.
-23,La Paz,Province Inquisivi,Sistema Miguilla,,CARABUCO,-16.8157,-67.3248,S-D,In Operation,,337,6.1,,,Pelton,1,6.4,6.4,,,,,COBEE S.A.
-24,La Paz,Province Inquisivi,Sistema Miguilla,Aguas del glacial el Gigante,MIGUILLAS - UMAPALCA,-16.934692,-67.326781,S,Under Construction,11.53,859,84,60%,,Pelton,3,87,261,4.04,2.983,2.983,,ENDE - Valle Hermoso
-25,La Paz,Province Inquisivi,Sistema Miguilla,Descarga desde la planta Umapalca,MIGUILLAS - PALILLADA,-16.666439,-67.352575,RoR-D,Under Construction,20,757,116,60%,,Pelton,3,120,360,,,,,ENDE - Valle Hermoso
-26,Potosi,Township Tamave,Sistema Yura,River Yura,KILPANI,-19.782519,-66.347839,RoR-D,In Operation,,280,11.5,,,Pelton,3,Different,11.9,,,,,"Empresa Río Eléctrico SA
-ERESA"
-27,Potosi,Township Tamave,Sistema Yura,River Yura,LANDARA,-19.816689,-66.322037,RoR-D,In Operation,,100,5.1,,,Francis,3,Different,5.7,,,,,"Empresa Río Eléctrico SA
-ERESA"
-28,Potosi,Township Tamave,Sistema Yura,River Yura,PUNUTUMA,-20.048135,-66.134484,RoR-D,In Operation,,103,2.5,,,Francis,1,3,3,,,,,"Empresa Río Eléctrico SA
-ERESA"
-29,Potosi,Province Antonio Quijarro,Independent,River Yura,EL CONDOR,-19.884,-66.205,RoR,Under Construction,3,60.48,1.47,,,,,,,,,,,ENDE - Valle Hermoso
-30,Cochabamba,Providence Cercado,Independent,Aguas PH_Misicuni,KANATA,-17.3164,-66.222174,RoR-D,In Operation,0.25,1210,7.8,,,Pelton,1,7.9,7.9,,,,,SYNERGIA S.A.
-31,Tarija,,Independent,"River Tolomosa, Tolomosita, Mena and la Vitoria",SAN JACINTO,-21.599289,-64.738468,S,In Operation,2.46,47.9,7,,, Francis de eje horizontal,2,1.9,3.8,,,"49,442",,ENDE Guaracachi S.A.
-32,Cochabamba,Provincia Chapare,Independent,Ríos paracti y Juntas Corani,ICONA,-17.025421,-65.694005,S,Under desing,80,159,102,,,,,,,236,172,172,120,ENDE - Corani
-33,Cochabamba,Provincia Campero,Independent,"Ríos Lope Mendoza, Fuertes e Ivirizu",IVIRIZU - SEHUENCAS,-17.546365,-65.267332,S,under construction ,26.5,811.6,188,46%,,Pelton,3,67.749,,40,40,40,105,ENDE - Valle Hermoso
-34,Cochabamba,Provincia Campero,Independent,"Ríos Lope Mendoza, e Ivirizu",IVIRIZU - JUNTAS,-17.474449,-65.275771,RoR-D,under construction,32.5,326.5,91,44%,,Francis,2,46.994,,,,,,ENDE - Valle Hermoso
-35,"Chuquisaca
-Tarija",Provincia Eustaquio Méndez,Independent,"Ríos Tumusla, San Juan y Camblaya",CARRIZAL,-21.019233,-64.971986,S,Under design,51,827.2,366,53%,,,,,,1238,627,627,160,"ENDE - Valle Hermoso
-ENDE - Matriz"
-36,"Potosi
-Cochabamba","Provincia Charcas
-Povincia Mizque",Independent,Rìo Caine,MOLINEROS,-17.956,-65.944,S,Under design,44.6,197.5,100,50%,,Francis,4,33,,3310,3310,3310,200,ENDE - Valle Hermoso
-37,Chuquisaca,Township Incahuasi,Independent,Rìo Incahuasi,INCAHUASI,-20.238,-64.656,S,Under design,1.2,1226,12.27,68%,,,,,,,,0.15,40,ENDE - Matriz
-38,La Paz,Municipio de Ichoca de la provincia Inquisivi,Independent,Río Coroico,MUNECAS,-15.883,-68.987,S,Under design,101.8,32,27.3,,,,,,,,,,35,ENDE - Valle Hermoso
-39,Potosi,Uncia Pocoata,PH_Rìo Chayanta,River Chayanta,CHIUTA ,-18.513133,-66.290052,S,Under design,16,162.26,10.14,,,,,,,,,,140,
-40,Potosi,Chayanta Pocoata,PH_Rìo Chayanta,River Chayanta,INKAPINKINA,-18.505303,-66.086473,S,Under design,14,161.24,20.15,,,,,,,,,,25,
-41,Potosi,Pocoata,PH_Rìo Chayanta,River Chayanta,KIRKI,-18.442663,-65.820255,S,Under design,47,235.9,56.25,,,,,,,,,,140,
-42,Tarija,"provincia Eustaquio Méndez, municipio de San Lorenzo",Independent,Río Casa Cancha y Huacata,HUACATA,-21.198919,-64.802087,S,Under design,1.4,536,5.83,25%,,,1,,,11.2,10.9,10.9,,ENDE - Valle Hermoso
-43,Beni,,Independent,Rìo Beni,CACHUELA ESPERANZA,-10.827,-65.903,S,Under design,10150,10.8,990,65%,,Bulbo,18,55,,25530,25530,25530,,ENDE - Corporacion
-44,La Paz,Provincias Abel Iturralde (La Paz) y Gral. Ballivián (Beni),PH_El Bala,Río Beni,CHEPETE,-14.972098,-67.685147,S,Under design,1600,183,3251,,,Francis de eje vertical,16,168.75,,31430,25900,25900,,ENDE - Corporacion
-45,"La Paz
-Beni",Provincias Abel Iturralde (La Paz) y Gral. Ballivián (Beni),PH_El Bala,Río Beni,EL BALA,-14.546955,-67.498613,RoR,Under design,n/a,40,425,,,Bulbo,12,,,,,,,ENDE - Corporacion
-46,,,Independent,,QUEHATA,,,,In Operation,,170,1.97,,,Pelthon,2,1,,,,,,SDB
-47,Tarija,Provincia Arce,Independent,Rìo Tarija,CAMBARI,-22.247,-64.437,S,Under design,115,105,93,,,Francis,2,,,1007,1007,1007,120,ENDE - Valle Hermoso
-48,Cochabamba,Province Chapare,Independent,,AMBROSIA,-16.423,-65.402,RoR-D,Under design,,,87,,,,,,,,,,,ENDE - Corani
-49,Cochabamba,Province Chapare,PH Juntas Corani,Rio Juntas Corani,VILLA JORKA ,-16.911514,-65.888968,S,Under design,60,297,140,,,Francis,2,,,70,70,308,154,ENDE - Corani
-50,Cochabamba,Province Chapare,PH Juntas Corani,Rio Juntas Corani,SANTA ROSA 1,-16.975517,-65.74249,S,Under design,,,300,,,,,,,,,308,,ENDE - Corani
-51,Santa Cruz,Municipio de Charagua ,Independent,Rìo Parapetí,OKITAS,-17.736,-62.679,S,Under design,32,,85,,,,,,,,,,,ENDE - Guaracahi
-52,Santa Cruz,Provincia Valle Grande,Complejo Hidroelectrico Rìo Grande,Río Grande,JATUN PAMPA,-18.466153,-64.872831,,Under design,214,,130,,,,,,,,,,,ENDE - Corporacion
-53,Santa Cruz,Provincia Valle Grande,Complejo Hidroelectrico Rìo Grande,River Grande,SERIPOMA,-18.505303,-64.669252,S,Under desing,171,184,400,,,,,,,,,3148,190,ENDE - Corporacion
-54,Santa Cruz,Provincia Valle Grande,Complejo Hidroelectrico Rìo Grande,River Grande,CANAHUECAL,-18.607092,-64.567463,S,Under desing,194,206,500,,,,,,,,,8388,196,ENDE - Corporacion
-55,Santa Cruz,Provincia Valle Grande,Complejo Hidroelectrico Rìo Grande,River Grande,LAS JUNTAS,-18.779351,-64.262095,S,Under desing,273,64,170,,,,,,,,,516,75,ENDE - Corporacion
-56,Santa Cruz,Provincia Valle Grande,Complejo Hidroelectrico Rìo Grande,River Grande,OCAMPO,-18.888971,-64.191625,S,Under desing,276,56,300,,,,,,,,,835,67,ENDE - Corporacion
-57,Santa Cruz,Provincia Valle Grande,Complejo Hidroelectrico Rìo Grande,River Grande,PENA BLANCA,-18.99076,-63.909747,S,Under desing,285,135,500,,,,,,,,,1038,145,ENDE - Corporacion
-58,Santa Cruz,Provincia Valle Grande,Complejo Hidroelectrico Rìo Grande,River Grande,LA PESCA,-19.01425,-63.713998,S,Under desing,304,135,700,,,,,,,,,4872,160,ENDE - Corporacion
-59,Santa Cruz,Provincia Valle Grande,Complejo Hidroelectrico Rìo Grande,Río Grande,ROSITAS,-18.894588,-63.534825,S,Under design,600,115,600,,,Francis de eje vertical,4,150,,19094.51,14829.16,19094,162,ENDE - Corporacion
+Name,Flow (m3/s),Falls down (M),Power (MW),Status
+VALLE DE ZONGO - ZONGO,0.37,379,11,2020
+VALLE DE ZONGO - TIQUIMANI,0.18,513,9.7,2020
+VALLE DE ZONGO - BOTIJILACA,1.31,383,6.8,2020
+VALLE DE ZONGO - CUTICUCHO,0.23,668,23,2020
+VALLE DE ZONGO - SANTA ROSA_1,0.27,187.5,6.9,2020
+VALLE DE ZONGO - SANTA ROSA_2,0.33,836.2,10.7,2020
+VALLE DE ZONGO - SAINANI,0.45,291,10.5,2020
+VALLE DE ZONGO - CHURURAQUI,1.5,375,25.4,2020
+VALLE DE ZONGO - HARCA,0.85,345,25.8,2020
+VALLE DE ZONGO - CAHUA,1.01,285,28.1,2020
+VALLE DE ZONGO - HUAJI,1.48,250,30.2,2020
+CHOJLLA LAGO,,,,2020
+CHOJLLA,0.79,560.8,38.4,2020
+YANACACHI,1.15,492.3,50.8,2020
+CORANI,21.4,622.3,54,2020
+SANTA ISABEL,21.4,856.7,93,2020
+SAN JOSE 1,21.4,313,55,2020
+SAN JOSE 2,21.4,369,69,2020
+BANDA AZUL,60,100,147,2025
+MISICUNI,2.39,1035.5,120,2020
+MIGUILLA,16,480,2.5,2020
+ANGOSTURA,1.16,533,6.2,2020
+CHOQUETANGA,1.25,488,6.1,2020
+CARABUCO,1.81,337,6.1,2020
+MIGUILLAS - UMAPALCA,11.53,859,84,2025
+MIGUILLAS - PALILLADA,20,757,116,2025
+KILPANI,4.11,280,11.5,2020
+LANDARA,5.1,100,5.1,2020
+PUNUTUMA,2.43,103,2.5,2020
+EL CONDOR,3,60.48,1.47,2025
+KANATA,0.25,1210,7.8,2020
+SAN JACINTO,2.46,47.9,7,2020
+ICONA,80,159,102,2050
+IVIRIZU - SEHUENCAS,26.5,811.6,188,2025
+IVIRIZU - JUNTAS,32.5,326.5,91,2025
+CARRIZAL,51,827.2,366,2025
+MOLINEROS,44.6,197.5,100,2025
+INCAHUASI,1.2,1226,12.27,2025
+MUNECAS,101.8,32,27.3,2050
+CHIUTA ,16,162.26,10.14,2050
+INKAPINKINA,14,161.24,20.15,2050
+KIRKI,47,235.9,56.25,2050
+HUACATA,1.4,536,5.83,2050
+CACHUELA ESPERANZA,10150,10.8,990,2050
+CHEPETE,1600,183,3251,2050
+EL BALA,1062.883701,40,425,2050
+QUEHATA,,170,1.97,2050
+CAMBARI,115,105,93,2050
+AMBROSIA,,,87,2050
+VILLA JORKA ,60,297,140,2050
+SANTA ROSA 1,,,300,2050
+OKITAS,32,265.72,85,2050
+JATUN PAMPA,214,60.77,130,2050
+SERIPOMA,171,184,400,2050
+CANAHUECAL,194,206,500,2050
+LAS JUNTAS,273,64,170,2050
+OCAMPO,276,56,300,2050
+PENA BLANCA,285,135,500,2050
+LA PESCA,304,135,700,2050
+ROSITAS,600,115,600,2050

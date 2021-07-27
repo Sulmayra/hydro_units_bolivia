@@ -9,7 +9,7 @@ create a simulation environment folder and run the simulation in GAMS
 import dispaset as ds
 
 # Load the configuration file
-config = ds.load_config('../ConfigFiles/ConfigBO_2020_HU.xlsx')
+config = ds.load_config('../ConfigFiles/ConfigBO_2020.xlsx')
 
 # Build the simulation environment:
 SimData = ds.build_simulation(config)
