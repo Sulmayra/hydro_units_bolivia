@@ -1,4 +1,4 @@
-PowerCapacity,Unit,Zone,Technology,Fuel,Efficiency,MinUpTime,MinDownTime,RampUpRate,RampDownRate,StartUpCost,NoLoadCost,RampingCost,PartLoadMin,MinEfficiency,StartUpTime,CO2Intensity,CHPType,CHPPowerToHeat,STOCapacity,STOSelfDischarge,STOMaxChargingPower,STOChargingEfficiency,Nunits
+﻿PowerCapacity,Unit,Zone,Technology,Fuel,Efficiency,MinUpTime,MinDownTime,RampUpRate,RampDownRate,StartUpCost,NoLoadCost,RampingCost,PartLoadMin,MinEfficiency,StartUpTime,CO2Intensity,CHPType,CHPPowerToHeat,STOCapacity,STOSelfDischarge,STOMaxChargingPower,STOChargingEfficiency,Nunits
 17.1,VHE01,CE,GTUR,GAS,0.33614898,1,1,0.15,0.15,1316.7,46.84931507,0.8,0.2,0.33614898,1,0.42,,,,,,,1
 17.34,VHE02,CE,GTUR,GAS,0.33614898,1,1,0.15,0.15,1335.18,47.50684932,0.8,0.2,0.33614898,1,0.42,,,,,,,1
 16.88,VHE03,CE,GTUR,GAS,0.33614898,1,1,0.15,0.15,1299.76,46.24657534,0.8,0.2,0.33614898,1,0.42,,,,,,,1
