@@ -37,14 +37,19 @@ for z in ['SU','NO','OR','CE']:
         endate = "12-31-"+str(i)+" 23:55"+"UTC"
         idx = pd.date_range(start=startdate, end=endate,freq="1h") 
         df1  = data.loc[idx,:]    
-        df1 = df1.drop(df_A, axis=1)
+        df1A = df1.drop(df_B, axis=1)
         filename="../HydroData/ScaledInflows/"+z+"/" + str(i) + ".csv"  
-        print(filename)
-        df1.to_csv(filename)                
-        df1 = df1.drop(df_B, axis=1)
+        print(filename)             
+        df1A.to_csv(filename)     
+           
+    for i in range(1980,2016):
+        startdate = "12-31-"+str(i-1)+" 23:00"+"UTC"
+        endate = "12-31-"+str(i)+" 23:55"+"UTC"
+        idx = pd.date_range(start=startdate, end=endate,freq="1h") 
+        df1B = df1.drop(df_A, axis=1)
         filename="../AvailabilityFactors/"+z+"/" + str(i) + ".csv"
         print(filename)
-        df1.to_csv(filename)
+        df1B.to_csv(filename)
         
     
    
