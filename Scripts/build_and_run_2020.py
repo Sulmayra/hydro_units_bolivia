@@ -15,4 +15,4 @@ config = ds.load_config('../ConfigFiles/ConfigBO_2020_HU.xlsx')
 SimData = ds.build_simulation(config)
 
 # Solve using GAMS:
-r = ds.solve_GAMS(config['SimulationDirectory'], config['GAMS_folder'])
+r = ds.solve_GAMS(config['SimulationDirectory'], config['GAMS_folder']) 
