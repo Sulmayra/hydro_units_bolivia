@@ -15,7 +15,7 @@ for z in ['SU','NO','OR','CE']:
     
     # ScaledInflows= P / P_diseño
     # P= Q*h*g*ρ/1E6
-    df3 = (df1*df2["Falls down (M)"]*9.81*1019/1E6/df2["Power (MW)"])
+    df3 = (df1*df2['Falls down (M)']*9.81*1019/1E6/df2["Power (MW)"])
     df4 = df3.dropna(1)
     
     # Converting the index as data
@@ -26,13 +26,13 @@ for z in ['SU','NO','OR','CE']:
     df5 = df4.reindex(index=new_index)
     data= df5.fillna(method="pad")
 
-    df = df2.drop(df2[(df2['Technology']=='HROR') | (df2['ZONE'] !=str(z))].index)
+    df = df2.drop(df2[(df2['Technology adopted']=='HROR') | (df2['ZONE'] !=str(z))].index)
     df_A= df.index.tolist()
-    df = df2.drop(df2[(df2['Technology']=='HDAM') | (df2['ZONE'] !=str(z))].index)
+    df = df2.drop(df2[(df2['Technology adopted']=='HDAM') | (df2['ZONE'] !=str(z))].index)
     df_B= df.index.tolist()
     
     
-    for i in range(1980,1982):
+    for i in range(1980,2016):
         startdate = "12-31-"+str(i-1)+" 23:00"+"UTC"
         endate = "12-31-"+str(i)+" 23:55"+"UTC"
         idx = pd.date_range(start=startdate, end=endate,freq="1h") 
@@ -42,7 +42,7 @@ for z in ['SU','NO','OR','CE']:
         print(filename)             
         df1A.to_csv(filename)     
            
-    for i in range(1980,1982):
+    for i in range(1980,2016):
         startdate = "12-31-"+str(i-1)+" 23:00"+"UTC"
         endate = "12-31-"+str(i)+" 23:55"+"UTC"
         idx = pd.date_range(start=startdate, end=endate,freq="1h") 
