@@ -30,6 +30,7 @@ for i in range(2020,2021):
 
     # # Build simulation
     SimData = ds.build_simulation(config) 
+    new_profiles = mid_term_scheduling(config, mts_plot=mts_plot, TimeStep=MTSTimeStep)
     # # Solve using GAMS:
     r = ds.solve_GAMS(sim_folder, config['GAMS_folder'])
 

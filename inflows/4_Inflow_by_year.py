@@ -26,9 +26,9 @@ for z in ['SU','NO','OR','CE']:
     df5 = df4.reindex(index=new_index)
     data= df5.fillna(method="pad")
 
-    df = df2.drop(df2[(df2['Technology adopted']=='HROR') | (df2['ZONE'] !=str(z))].index)
+    df = df2.drop(df2[(df2['Technology']=='HROR') | (df2['ZONE'] !=str(z))].index)
     df_A= df.index.tolist()
-    df = df2.drop(df2[(df2['Technology adopted']=='HDAM') | (df2['ZONE'] !=str(z))].index)
+    df = df2.drop(df2[(df2['Technology']=='HDAM') | (df2['ZONE'] !=str(z))].index)
     df_B= df.index.tolist()
     
     
