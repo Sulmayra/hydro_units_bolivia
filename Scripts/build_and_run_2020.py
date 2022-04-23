@@ -19,5 +19,7 @@ config = ds.load_config('../ConfigFiles/ConfigBO_2020_HU.xlsx')
 # Build the simulation environment:
 SimData = ds.build_simulation(config)
 
+
+
 # Solve using GAMS:
 r = ds.solve_GAMS(config['SimulationDirectory'], config['GAMS_folder'])
