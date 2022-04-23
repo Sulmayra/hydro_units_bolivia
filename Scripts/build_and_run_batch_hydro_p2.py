@@ -4,31 +4,43 @@
 @author: 
 """
 
-from itertools import product
-import pickle
-import logging
-import pandas as pd
-
-import numpy as np
 # Import Dispa-SET
 import dispaset as ds
+import pandas as pd
+import pickle
+
+# Set the simulation date range
+start_year = 1980
+end_year = 1983
 
 # Load the configuration file
-config = ds.load_config_excel('../ConfigFiles/ConfigBO_2020_HU.xlsx')
+config = ds.load_config_excel('../ConfigFiles/ConfigTest.xlsx')
 
-data = pd.DataFrame(index = range(1980,2016))
-for i in range(1980,2016):
-    config['SimulationDirectory']  = config['SimulationDirectory']+ '/' + str(i)
-    sim_folder = config['SimulationDirectory'] 
+inputs = {}
+results = {}
+for i in range(start_year, end_year):
+    config['SimulationDirectory'] = config['SimulationDirectory'][:-4] + str(i)
+    config['ReservoirScaledInflows'] = config['ReservoirScaledInflows'][:-8] + str(i) + '.csv'
+    config['RenewablesAF'] = config['RenewablesAF'][:-8] + str(i) + '.csv'
+    # Limit the simulation period (for testing purposes, comment the line to run the whole year)
+    config['StartDate'] = (i, 1, 1, 0, 0, 0)
+    config['StopDate'] = (i, 1, 7, 0, 0, 0)
 
-    # Load inputs and results to memory
-    inputs, results = ds.get_sim_results(path=sim_folder, cache=True)
-    
-   
-    # Save inputs and results to a file
-    # Analyse the results for each country and provide quantitative indicators:
-    r = ds.get_result_analysis(inputs,results)
-    data.loc[i,'TotalLoad'] = r['TotalLoad']
-    data.loc[i,'Curtailment'] = r['Curtailment']
-data.to_excel('data.xlsx')
+    # Build the simulation environment:
+    SimData = ds.build_simulation(config)
 
+    # Solve using GAMS:
+    _ = ds.solve_GAMS(config['SimulationDirectory'], config['GAMS_folder'])
+
+    # Load the simulation results:
+    inputs[i], results[i] = ds.get_sim_results(config['SimulationDirectory'], cache=False)
+
+# Save inputs and results to a pickle file
+with open('results.p', 'wb') as handle:
+    pickle.dump(inputs, handle, protocol=pickle.HIGHEST_PROTOCOL)
+    pickle.dump(results, handle, protocol=pickle.HIGHEST_PROTOCOL)
+
+# # Read results from previously saved pickle file
+# with open('results.p', 'rb') as handle:
+#     inputs = pickle.load(handle)
+#     results = pickle.load(handle)
