@@ -17,12 +17,14 @@ import dispaset as ds
 config = ds.load_config_excel('../ConfigFiles/ConfigBO_2020_HU.xlsx')
 
 
-for i in range(1980,1981):
+for i in range(1980,2016):
     hydro_year = '../HydroData/ScaledInflows/##/' + str(i) + '.csv'
+    hydro_year_HROR = '../AvailabilityFactors/##/' + str(i) + '.csv'
     # scenario_name =  str(i)
 
     # Load run specific inputs
     config['ReservoirScaledInflows'] = hydro_year
+    config['RenewablesAF'] = hydro_year_HROR
     config['SimulationDirectory']  = config['SimulationDirectory']+ '/' + str(i)
     sim_folder = config['SimulationDirectory'] 
 
@@ -30,8 +32,8 @@ for i in range(1980,1981):
     SimData = ds.build_simulation(config) 
    
     # Solve using GAMS:
-    # r = ds.solve_GAMS(config['SimulationDirectory'], config['GAMS_folder'])
     r = ds.solve_GAMS(sim_folder, config['GAMS_folder'])
+
 
 
 
