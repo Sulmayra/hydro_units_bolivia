@@ -13,10 +13,14 @@ import numpy as np
 # Import Dispa-SET
 import dispaset as ds
 
+# Load the configuration file
+config = ds.load_config_excel('../ConfigFiles/ConfigBO_2020_HU.xlsx')
 
-data = pd.DataFrame(index = range(1980,1981))
-for i in range(1980,1981):
-    sim_folder = config['SimulationDirectory'] + '/' + str(i)
+data = pd.DataFrame(index = range(1980,1982))
+for i in range(1980,1982):
+    config['SimulationDirectory']  = config['SimulationDirectory']+ '/' + str(i)
+    sim_folder = config['SimulationDirectory'] 
+    # sim_folder = config['SimulationDirectory'] + '/' + str(i)
 
     # Load inputs and results to memory
     inputs, results = ds.get_sim_results(path=sim_folder, cache=True)
