@@ -1,0 +1,9 @@
+Scenario,region,min,max
+Baseline,CE,0.45,0.691595866
+Baseline,NO,0.96,0.988910159
+Baseline,OR,0,0
+Baseline,SU,0.08,0.147261002
+Historical,CE,0.45,0.601595866
+Historical,NO,0.96,0.978910159
+Historical,OR,0,0
+Historical,SU,0.08,0.143261002
