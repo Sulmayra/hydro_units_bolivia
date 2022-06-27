@@ -1,0 +1,289 @@
+Scenario,hour,Total,type,capacity,fraction,type_label
+Scenario1,0,679.0334243,Solar,0,0,Solar power
+Scenario1,1,634.8858757,Solar,0,0,Solar power
+Scenario1,2,617.6042587,Solar,0,0,Solar power
+Scenario1,3,615.6139413,Solar,0,0,Solar power
+Scenario1,4,588.1662,Solar,0,0,Solar power
+Scenario1,5,583.77,Solar,0,0,Solar power
+Scenario1,6,560.5213,Solar,0,0,Solar power
+Scenario1,7,579.0071,Solar,18.32179242,0.031643468,Solar power
+Scenario1,8,626.1658,Solar,56.18181467,0.089723544,Solar power
+Scenario1,9,675.4341,Solar,85.06745223,0.125944859,Solar power
+Scenario1,10,718.8371,Solar,104.7208679,0.145680945,Solar power
+Scenario1,11,748.1821,Solar,115.7634305,0.154726277,Solar power
+Scenario1,12,754.4413442,Solar,118.740186,0.157388228,Solar power
+Scenario1,13,758.6225558,Solar,113.7772324,0.14997871,Solar power
+Scenario1,14,770.9077,Solar,100.8422605,0.130809772,Solar power
+Scenario1,15,768.3496,Solar,79.51902798,0.10349329,Solar power
+Scenario1,16,811.8444,Solar,50.0755339,0.061681196,Solar power
+Scenario1,17,901.3376,Solar,16.73249498,0.018564071,Solar power
+Scenario1,18,1100.5,Solar,0,0,Solar power
+Scenario1,19,1084.36,Solar,0,0,Solar power
+Scenario1,20,1035.5448,Solar,0,0,Solar power
+Scenario1,21,989.1999,Solar,0,0,Solar power
+Scenario1,22,857.7606,Solar,0,0,Solar power
+Scenario1,23,728.0518,Solar,0,0,Solar power
+Scenario1,0,679.0334243,Wind,1.496356647,0.002203657,Wind power
+Scenario1,1,634.8858757,Wind,1.401687693,0.002207779,Wind power
+Scenario1,2,617.6042587,Wind,1.191128904,0.001928628,Wind power
+Scenario1,3,615.6139413,Wind,1.019024802,0.001655298,Wind power
+Scenario1,4,588.1662,Wind,0.894883767,0.001521481,Wind power
+Scenario1,5,583.77,Wind,0.803844378,0.001376988,Wind power
+Scenario1,6,560.5213,Wind,0.670907952,0.001196936,Wind power
+Scenario1,7,579.0071,Wind,0.562259391,0.000971075,Wind power
+Scenario1,8,626.1658,Wind,0.798739701,0.001275604,Wind power
+Scenario1,9,675.4341,Wind,0.727264089,0.001076736,Wind power
+Scenario1,10,718.8371,Wind,0.808984173,0.001125407,Wind power
+Scenario1,11,748.1821,Wind,1.221065208,0.001632043,Wind power
+Scenario1,12,754.4413442,Wind,2.216970156,0.002938559,Wind power
+Scenario1,13,758.6225558,Wind,3.814412235,0.005028076,Wind power
+Scenario1,14,770.9077,Wind,5.580070647,0.007238312,Wind power
+Scenario1,15,768.3496,Wind,7.463329236,0.009713455,Wind power
+Scenario1,16,811.8444,Wind,8.934601245,0.011005312,Wind power
+Scenario1,17,901.3376,Wind,7.36628226,0.008172612,Wind power
+Scenario1,18,1100.5,Wind,4.028092491,0.003660239,Wind power
+Scenario1,19,1084.36,Wind,3.519969642,0.003246126,Wind power
+Scenario1,20,1035.5448,Wind,3.76767816,0.003638354,Wind power
+Scenario1,21,989.1999,Wind,3.547184706,0.003585913,Wind power
+Scenario1,22,857.7606,Wind,3.060007107,0.003567437,Wind power
+Scenario1,23,728.0518,Wind,2.595748713,0.003565335,Wind power
+Scenario1,0,679.0334243,Bio,0,0,Biomass
+Scenario1,1,634.8858757,Bio,0,0,Biomass
+Scenario1,2,617.6042587,Bio,0,0,Biomass
+Scenario1,3,615.6139413,Bio,0,0,Biomass
+Scenario1,4,588.1662,Bio,0,0,Biomass
+Scenario1,5,583.77,Bio,0,0,Biomass
+Scenario1,6,560.5213,Bio,0,0,Biomass
+Scenario1,7,579.0071,Bio,0,0,Biomass
+Scenario1,8,626.1658,Bio,0,0,Biomass
+Scenario1,9,675.4341,Bio,0,0,Biomass
+Scenario1,10,718.8371,Bio,0,0,Biomass
+Scenario1,11,748.1821,Bio,0,0,Biomass
+Scenario1,12,754.4413442,Bio,0,0,Biomass
+Scenario1,13,758.6225558,Bio,0,0,Biomass
+Scenario1,14,770.9077,Bio,0,0,Biomass
+Scenario1,15,768.3496,Bio,0,0,Biomass
+Scenario1,16,811.8444,Bio,0,0,Biomass
+Scenario1,17,901.3376,Bio,0,0,Biomass
+Scenario1,18,1100.5,Bio,0,0,Biomass
+Scenario1,19,1084.36,Bio,0,0,Biomass
+Scenario1,20,1035.5448,Bio,0,0,Biomass
+Scenario1,21,989.1999,Bio,0,0,Biomass
+Scenario1,22,857.7606,Bio,0,0,Biomass
+Scenario1,23,728.0518,Bio,0,0,Biomass
+Scenario1,0,679.0334243,Oil,0,0,Oil
+Scenario1,1,634.8858757,Oil,0,0,Oil
+Scenario1,2,617.6042587,Oil,0,0,Oil
+Scenario1,3,615.6139413,Oil,0,0,Oil
+Scenario1,4,588.1662,Oil,0,0,Oil
+Scenario1,5,583.77,Oil,0,0,Oil
+Scenario1,6,560.5213,Oil,0,0,Oil
+Scenario1,7,579.0071,Oil,0,0,Oil
+Scenario1,8,626.1658,Oil,0,0,Oil
+Scenario1,9,675.4341,Oil,0,0,Oil
+Scenario1,10,718.8371,Oil,0,0,Oil
+Scenario1,11,748.1821,Oil,0,0,Oil
+Scenario1,12,754.4413442,Oil,0,0,Oil
+Scenario1,13,758.6225558,Oil,0,0,Oil
+Scenario1,14,770.9077,Oil,0,0,Oil
+Scenario1,15,768.3496,Oil,0,0,Oil
+Scenario1,16,811.8444,Oil,0,0,Oil
+Scenario1,17,901.3376,Oil,0,0,Oil
+Scenario1,18,1100.5,Oil,0,0,Oil
+Scenario1,19,1084.36,Oil,0,0,Oil
+Scenario1,20,1035.5448,Oil,0,0,Oil
+Scenario1,21,989.1999,Oil,0,0,Oil
+Scenario1,22,857.7606,Oil,0,0,Oil
+Scenario1,23,728.0518,Oil,0,0,Oil
+Scenario1,0,679.0334243,Hydro,278.02582,0.409443497,Hydro-power
+Scenario1,1,634.8858757,Hydro,278.02582,0.43791464,Hydro-power
+Scenario1,2,617.6042587,Hydro,278.02582,0.450168236,Hydro-power
+Scenario1,3,615.6139413,Hydro,278.02582,0.451623658,Hydro-power
+Scenario1,4,588.1662,Hydro,278.02582,0.472699417,Hydro-power
+Scenario1,5,583.77,Hydro,278.02582,0.476259177,Hydro-power
+Scenario1,6,560.5213,Hydro,278.02582,0.496012944,Hydro-power
+Scenario1,7,579.0071,Hydro,278.02582,0.480176875,Hydro-power
+Scenario1,8,626.1658,Hydro,278.02582,0.444013103,Hydro-power
+Scenario1,9,675.4341,Hydro,278.02582,0.411625383,Hydro-power
+Scenario1,10,718.8371,Hydro,278.02582,0.386771662,Hydro-power
+Scenario1,11,748.1821,Hydro,278.02582,0.371601807,Hydro-power
+Scenario1,12,754.4413442,Hydro,278.02582,0.368518802,Hydro-power
+Scenario1,13,758.6225558,Hydro,278.02582,0.366487679,Hydro-power
+Scenario1,14,770.9077,Hydro,278.02582,0.360647351,Hydro-power
+Scenario1,15,768.3496,Hydro,278.02582,0.36184807,Hydro-power
+Scenario1,16,811.8444,Hydro,278.02582,0.342461955,Hydro-power
+Scenario1,17,901.3376,Hydro,278.02582,0.308459139,Hydro-power
+Scenario1,18,1100.5,Hydro,367.8626705,0.334268669,Hydro-power
+Scenario1,19,1084.36,Hydro,352.2307934,0.32482828,Hydro-power
+Scenario1,20,1035.5448,Hydro,303.1678849,0.292761728,Hydro-power
+Scenario1,21,989.1999,Hydro,278.02582,0.28106131,Hydro-power
+Scenario1,22,857.7606,Hydro,278.02582,0.324129856,Hydro-power
+Scenario1,23,728.0518,Hydro,278.02582,0.381876427,Hydro-power
+Scenario1,0,679.0334243,Gas,399.5112476,0.588352846,Gas
+Scenario1,1,634.8858757,Gas,355.4583681,0.559877581,Gas
+Scenario1,2,617.6042587,Gas,338.3873098,0.547903135,Gas
+Scenario1,3,615.6139413,Gas,336.5690964,0.546721044,Gas
+Scenario1,4,588.1662,Gas,309.2454962,0.525779102,Gas
+Scenario1,5,583.77,Gas,304.9403356,0.522363834,Gas
+Scenario1,6,560.5213,Gas,281.824572,0.502790121,Gas
+Scenario1,7,579.0071,Gas,282.0972282,0.487208582,Gas
+Scenario1,8,626.1658,Gas,291.1594256,0.464987749,Gas
+Scenario1,9,675.4341,Gas,311.6135637,0.461353023,Gas
+Scenario1,10,718.8371,Gas,335.2814279,0.466421986,Gas
+Scenario1,11,748.1821,Gas,353.1717842,0.472039874,Gas
+Scenario1,12,754.4413442,Gas,355.4583681,0.471154412,Gas
+Scenario1,13,758.6225558,Gas,363.0050912,0.478505534,Gas
+Scenario1,14,770.9077,Gas,386.4595489,0.501304565,Gas
+Scenario1,15,768.3496,Gas,403.3414228,0.524945185,Gas
+Scenario1,16,811.8444,Gas,474.8084449,0.584851537,Gas
+Scenario1,17,901.3376,Gas,599.2130028,0.664804179,Gas
+Scenario1,18,1100.5,Gas,728.609237,0.662071092,Gas
+Scenario1,19,1084.36,Gas,728.609237,0.671925594,Gas
+Scenario1,20,1035.5448,Gas,728.609237,0.703599919,Gas
+Scenario1,21,989.1999,Gas,707.6268953,0.715352777,Gas
+Scenario1,22,857.7606,Gas,576.6747729,0.672302706,Gas
+Scenario1,23,728.0518,Gas,447.4302313,0.614558238,Gas
+Scenario2,0,1199.534289,Solar,0,0,Solar power
+Scenario2,1,1144.209137,Solar,0,0,Solar power
+Scenario2,2,1111.957207,Solar,0,0,Solar power
+Scenario2,3,1095.884487,Solar,0,0,Solar power
+Scenario2,4,1092.208203,Solar,0,0,Solar power
+Scenario2,5,1048.234454,Solar,0,0,Solar power
+Scenario2,6,1134.097985,Solar,7.9338875,0.006995769,Solar power
+Scenario2,7,1271.118385,Solar,38.90283509,0.030605202,Solar power
+Scenario2,8,1407.555953,Solar,76.61095845,0.054428357,Solar power
+Scenario2,9,1461.097676,Solar,106.0162262,0.072559301,Solar power
+Scenario2,10,1475.947762,Solar,121.3523484,0.082219948,Solar power
+Scenario2,11,1500.495646,Solar,128.0153353,0.085315366,Solar power
+Scenario2,12,1505.578367,Solar,127.6675119,0.084796325,Solar power
+Scenario2,13,1562.447302,Solar,118.7507201,0.076003024,Solar power
+Scenario2,14,1554.163149,Solar,102.9272379,0.066226791,Solar power
+Scenario2,15,1533.116939,Solar,81.49194475,0.053154422,Solar power
+Scenario2,16,1508.979646,Solar,57.09316531,0.03783561,Solar power
+Scenario2,17,1457.158123,Solar,31.77385529,0.021805359,Solar power
+Scenario2,18,1585.974901,Solar,8.88530789,0.005602427,Solar power
+Scenario2,19,1597.094137,Solar,0,0,Solar power
+Scenario2,20,1578.87166,Solar,0,0,Solar power
+Scenario2,21,1551.928693,Solar,0,0,Solar power
+Scenario2,22,1419.863337,Solar,0,0,Solar power
+Scenario2,23,1298.473701,Solar,0,0,Solar power
+Scenario2,0,1199.534289,Wind,0.691755672,0.000576687,Wind power
+Scenario2,1,1144.209137,Wind,0.638504079,0.000558031,Wind power
+Scenario2,2,1111.957207,Wind,0.668916711,0.000601567,Wind power
+Scenario2,3,1095.884487,Wind,0.609804225,0.000556449,Wind power
+Scenario2,4,1092.208203,Wind,0.589107609,0.000539373,Wind power
+Scenario2,5,1048.234454,Wind,0.648424713,0.000618587,Wind power
+Scenario2,6,1134.097985,Wind,0.537352407,0.000473815,Wind power
+Scenario2,7,1271.118385,Wind,0.906439065,0.000713104,Wind power
+Scenario2,8,1407.555953,Wind,1.346851491,0.000956872,Wind power
+Scenario2,9,1461.097676,Wind,1.806954114,0.00123671,Wind power
+Scenario2,10,1475.947762,Wind,2.528340591,0.001713029,Wind power
+Scenario2,11,1500.495646,Wind,3.637544415,0.002424229,Wind power
+Scenario2,12,1505.578367,Wind,5.018471598,0.003333252,Wind power
+Scenario2,13,1562.447302,Wind,6.69269838,0.004283471,Wind power
+Scenario2,14,1554.163149,Wind,8.241784233,0.005303037,Wind power
+Scenario2,15,1533.116939,Wind,8.630866902,0.005629621,Wind power
+Scenario2,16,1508.979646,Wind,7.522431795,0.004985112,Wind power
+Scenario2,17,1457.158123,Wind,5.124737952,0.00351694,Wind power
+Scenario2,18,1585.974901,Wind,2.43031803,0.001532381,Wind power
+Scenario2,19,1597.094137,Wind,1.170165066,0.000732684,Wind power
+Scenario2,20,1578.87166,Wind,1.246393107,0.00078942,Wind power
+Scenario2,21,1551.928693,Wind,1.137341781,0.000732857,Wind power
+Scenario2,22,1419.863337,Wind,1.003854837,0.000707008,Wind power
+Scenario2,23,1298.473701,Wind,0.992448123,0.000764319,Wind power
+Scenario2,0,1199.534289,Bio,0,0,Biomass
+Scenario2,1,1144.209137,Bio,0,0,Biomass
+Scenario2,2,1111.957207,Bio,0,0,Biomass
+Scenario2,3,1095.884487,Bio,0,0,Biomass
+Scenario2,4,1092.208203,Bio,0,0,Biomass
+Scenario2,5,1048.234454,Bio,0,0,Biomass
+Scenario2,6,1134.097985,Bio,0,0,Biomass
+Scenario2,7,1271.118385,Bio,0,0,Biomass
+Scenario2,8,1407.555953,Bio,0,0,Biomass
+Scenario2,9,1461.097676,Bio,0,0,Biomass
+Scenario2,10,1475.947762,Bio,0,0,Biomass
+Scenario2,11,1500.495646,Bio,0,0,Biomass
+Scenario2,12,1505.578367,Bio,0,0,Biomass
+Scenario2,13,1562.447302,Bio,0,0,Biomass
+Scenario2,14,1554.163149,Bio,0,0,Biomass
+Scenario2,15,1533.116939,Bio,0,0,Biomass
+Scenario2,16,1508.979646,Bio,0,0,Biomass
+Scenario2,17,1457.158123,Bio,0,0,Biomass
+Scenario2,18,1585.974901,Bio,0,0,Biomass
+Scenario2,19,1597.094137,Bio,0,0,Biomass
+Scenario2,20,1578.87166,Bio,0,0,Biomass
+Scenario2,21,1551.928693,Bio,0,0,Biomass
+Scenario2,22,1419.863337,Bio,0,0,Biomass
+Scenario2,23,1298.473701,Bio,0,0,Biomass
+Scenario2,0,1199.534289,Oil,0,0,Oil
+Scenario2,1,1144.209137,Oil,0,0,Oil
+Scenario2,2,1111.957207,Oil,0,0,Oil
+Scenario2,3,1095.884487,Oil,0,0,Oil
+Scenario2,4,1092.208203,Oil,0,0,Oil
+Scenario2,5,1048.234454,Oil,0,0,Oil
+Scenario2,6,1134.097985,Oil,0,0,Oil
+Scenario2,7,1271.118385,Oil,0,0,Oil
+Scenario2,8,1407.555953,Oil,0,0,Oil
+Scenario2,9,1461.097676,Oil,0,0,Oil
+Scenario2,10,1475.947762,Oil,0,0,Oil
+Scenario2,11,1500.495646,Oil,0,0,Oil
+Scenario2,12,1505.578367,Oil,0,0,Oil
+Scenario2,13,1562.447302,Oil,0,0,Oil
+Scenario2,14,1554.163149,Oil,0,0,Oil
+Scenario2,15,1533.116939,Oil,0,0,Oil
+Scenario2,16,1508.979646,Oil,0,0,Oil
+Scenario2,17,1457.158123,Oil,0,0,Oil
+Scenario2,18,1585.974901,Oil,0,0,Oil
+Scenario2,19,1597.094137,Oil,0,0,Oil
+Scenario2,20,1578.87166,Oil,0,0,Oil
+Scenario2,21,1551.928693,Oil,0,0,Oil
+Scenario2,22,1419.863337,Oil,0,0,Oil
+Scenario2,23,1298.473701,Oil,0,0,Oil
+Scenario2,0,1199.534289,Hydro,255.006336,0.212587784,Hydro-power
+Scenario2,1,1144.209137,Hydro,237.4509388,0.207524072,Hydro-power
+Scenario2,2,1111.957207,Hydro,205.1685962,0.184511234,Hydro-power
+Scenario2,3,1095.884487,Hydro,189.1549895,0.172604861,Hydro-power
+Scenario2,4,1092.208203,Hydro,185.4994021,0.169838865,Hydro-power
+Scenario2,5,1048.234454,Hydro,141.466336,0.13495677,Hydro-power
+Scenario2,6,1134.097985,Hydro,219.5070514,0.193552104,Hydro-power
+Scenario2,7,1271.118385,Hydro,255.006336,0.200615725,Hydro-power
+Scenario2,8,1407.555953,Hydro,322.796336,0.229331086,Hydro-power
+Scenario2,9,1461.097676,Hydro,344.5284483,0.235801106,Hydro-power
+Scenario2,10,1475.947762,Hydro,343.3210257,0.232610553,Hydro-power
+Scenario2,11,1500.495646,Hydro,360.0967189,0.239985181,Hydro-power
+Scenario2,12,1505.578367,Hydro,322.796336,0.214400222,Hydro-power
+Scenario2,13,1562.447302,Hydro,366.2460923,0.234405405,Hydro-power
+Scenario2,14,1554.163149,Hydro,372.236336,0.239509176,Hydro-power
+Scenario2,15,1533.116939,Hydro,372.236336,0.242797093,Hydro-power
+Scenario2,16,1508.979646,Hydro,332.2562576,0.220186043,Hydro-power
+Scenario2,17,1457.158123,Hydro,308.1517389,0.211474468,Hydro-power
+Scenario2,18,1585.974901,Hydro,372.236336,0.234705061,Hydro-power
+Scenario2,19,1597.094137,Hydro,372.236336,0.233071005,Hydro-power
+Scenario2,20,1578.87166,Hydro,372.236336,0.235760984,Hydro-power
+Scenario2,21,1551.928693,Hydro,364.9094106,0.235132846,Hydro-power
+Scenario2,22,1419.863337,Hydro,326.8209088,0.230177722,Hydro-power
+Scenario2,23,1298.473701,Hydro,265.0921921,0.204156766,Hydro-power
+Scenario2,0,1199.534289,Gas,943.8361974,0.786835529,Gas
+Scenario2,1,1144.209137,Gas,906.1196937,0.791917897,Gas
+Scenario2,2,1111.957207,Gas,906.1196937,0.814887199,Gas
+Scenario2,3,1095.884487,Gas,906.1196937,0.82683869,Gas
+Scenario2,4,1092.208203,Gas,906.1196937,0.829621762,Gas
+Scenario2,5,1048.234454,Gas,906.1196937,0.864424643,Gas
+Scenario2,6,1134.097985,Gas,906.1196937,0.798978312,Gas
+Scenario2,7,1271.118385,Gas,976.3027751,0.76806597,Gas
+Scenario2,8,1407.555953,Gas,1006.801807,0.715283684,Gas
+Scenario2,9,1461.097676,Gas,1008.746048,0.690402883,Gas
+Scenario2,10,1475.947762,Gas,1008.746048,0.68345647,Gas
+Scenario2,11,1500.495646,Gas,1008.746048,0.672275225,Gas
+Scenario2,12,1505.578367,Gas,1050.096048,0.697470202,Gas
+Scenario2,13,1562.447302,Gas,1070.757791,0.6853081,Gas
+Scenario2,14,1554.163149,Gas,1070.757791,0.688960996,Gas
+Scenario2,15,1533.116939,Gas,1070.757791,0.698418864,Gas
+Scenario2,16,1508.979646,Gas,1112.107791,0.736993235,Gas
+Scenario2,17,1457.158123,Gas,1112.107791,0.763203233,Gas
+Scenario2,18,1585.974901,Gas,1202.422939,0.758160131,Gas
+Scenario2,19,1597.094137,Gas,1223.687636,0.766196311,Gas
+Scenario2,20,1578.87166,Gas,1205.388931,0.763449596,Gas
+Scenario2,21,1551.928693,Gas,1185.881941,0.764134297,Gas
+Scenario2,22,1419.863337,Gas,1092.038573,0.76911527,Gas
+Scenario2,23,1298.473701,Gas,1032.389061,0.795078915,Gas
