@@ -1,0 +1,10 @@
+epgap 0.0005
+numericalemphasis 0
+scaind 1
+lpmethod 0
+relaxfixedinfeas 0
+mipstart 1
+epint 0
+heuristiceffort 2
+lbheur 1
+probe 1
